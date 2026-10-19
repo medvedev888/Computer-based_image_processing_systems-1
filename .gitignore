@@ -6,5 +6,7 @@
 !/test.png
 !/results/
 /results/*
+!/results/photo/
+!/results/test/
 !/results/comparison_photo.png
 !/results/comparison_test.png
